@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37710.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepgramAIeng", "DeepgramAI\DeepgramAIeng.csproj", "{B0F464F4-90F1-45CA-9A27-3FFB15604EF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepgramAItr", "DeepgramAItr\DeepgramAItr.csproj", "{A3FD2B34-CB49-4615-AFD0-3D61A56AE538}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DeepgramAI", "DeepgramAI", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HuggingFace", "HuggingFace", "{201435FF-F8AD-4B64-A67F-87A207F53EEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HuggingFaceSentimentAnalysis", "HuggingFaceSentimentAnalysis\HuggingFaceSentimentAnalysis.csproj", "{E4999F8E-3A27-45A0-B243-CD9ADB1F4603}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0F464F4-90F1-45CA-9A27-3FFB15604EF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0F464F4-90F1-45CA-9A27-3FFB15604EF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0F464F4-90F1-45CA-9A27-3FFB15604EF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0F464F4-90F1-45CA-9A27-3FFB15604EF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3FD2B34-CB49-4615-AFD0-3D61A56AE538}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3FD2B34-CB49-4615-AFD0-3D61A56AE538}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3FD2B34-CB49-4615-AFD0-3D61A56AE538}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3FD2B34-CB49-4615-AFD0-3D61A56AE538}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4999F8E-3A27-45A0-B243-CD9ADB1F4603}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4999F8E-3A27-45A0-B243-CD9ADB1F4603}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4999F8E-3A27-45A0-B243-CD9ADB1F4603}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4999F8E-3A27-45A0-B243-CD9ADB1F4603}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B0F464F4-90F1-45CA-9A27-3FFB15604EF1} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{A3FD2B34-CB49-4615-AFD0-3D61A56AE538} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{E4999F8E-3A27-45A0-B243-CD9ADB1F4603} = {201435FF-F8AD-4B64-A67F-87A207F53EEC}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F4C2D5C-5362-45BF-ABB6-DE3DA3F0C4D5}
+	EndGlobalSection
+EndGlobal

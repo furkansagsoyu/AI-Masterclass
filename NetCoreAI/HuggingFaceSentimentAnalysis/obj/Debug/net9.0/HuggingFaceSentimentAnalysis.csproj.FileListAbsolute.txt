@@ -1,0 +1,14 @@
+C:\Users\furka\source\repos\NetCoreAI\HuggingFaceSentimentAnalysis\bin\Debug\net9.0\HuggingFaceSentimentAnalysis.exe
+C:\Users\furka\source\repos\NetCoreAI\HuggingFaceSentimentAnalysis\bin\Debug\net9.0\HuggingFaceSentimentAnalysis.deps.json
+C:\Users\furka\source\repos\NetCoreAI\HuggingFaceSentimentAnalysis\bin\Debug\net9.0\HuggingFaceSentimentAnalysis.runtimeconfig.json
+C:\Users\furka\source\repos\NetCoreAI\HuggingFaceSentimentAnalysis\bin\Debug\net9.0\HuggingFaceSentimentAnalysis.dll
+C:\Users\furka\source\repos\NetCoreAI\HuggingFaceSentimentAnalysis\bin\Debug\net9.0\HuggingFaceSentimentAnalysis.pdb
+C:\Users\furka\source\repos\NetCoreAI\HuggingFaceSentimentAnalysis\obj\Debug\net9.0\HuggingFaceSentimentAnalysis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\source\repos\NetCoreAI\HuggingFaceSentimentAnalysis\obj\Debug\net9.0\HuggingFaceSentimentAnalysis.AssemblyInfoInputs.cache
+C:\Users\furka\source\repos\NetCoreAI\HuggingFaceSentimentAnalysis\obj\Debug\net9.0\HuggingFaceSentimentAnalysis.AssemblyInfo.cs
+C:\Users\furka\source\repos\NetCoreAI\HuggingFaceSentimentAnalysis\obj\Debug\net9.0\HuggingFaceSentimentAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\NetCoreAI\HuggingFaceSentimentAnalysis\obj\Debug\net9.0\HuggingFaceSentimentAnalysis.dll
+C:\Users\furka\source\repos\NetCoreAI\HuggingFaceSentimentAnalysis\obj\Debug\net9.0\refint\HuggingFaceSentimentAnalysis.dll
+C:\Users\furka\source\repos\NetCoreAI\HuggingFaceSentimentAnalysis\obj\Debug\net9.0\HuggingFaceSentimentAnalysis.pdb
+C:\Users\furka\source\repos\NetCoreAI\HuggingFaceSentimentAnalysis\obj\Debug\net9.0\HuggingFaceSentimentAnalysis.genruntimeconfig.cache
+C:\Users\furka\source\repos\NetCoreAI\HuggingFaceSentimentAnalysis\obj\Debug\net9.0\ref\HuggingFaceSentimentAnalysis.dll

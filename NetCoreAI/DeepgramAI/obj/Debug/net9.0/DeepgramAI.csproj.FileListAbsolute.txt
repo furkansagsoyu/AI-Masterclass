@@ -1,0 +1,14 @@
+C:\Users\furka\source\repos\DeepgramAI\DeepgramAI\bin\Debug\net9.0\DeepgramAI.exe
+C:\Users\furka\source\repos\DeepgramAI\DeepgramAI\bin\Debug\net9.0\DeepgramAI.deps.json
+C:\Users\furka\source\repos\DeepgramAI\DeepgramAI\bin\Debug\net9.0\DeepgramAI.runtimeconfig.json
+C:\Users\furka\source\repos\DeepgramAI\DeepgramAI\bin\Debug\net9.0\DeepgramAI.dll
+C:\Users\furka\source\repos\DeepgramAI\DeepgramAI\bin\Debug\net9.0\DeepgramAI.pdb
+C:\Users\furka\source\repos\DeepgramAI\DeepgramAI\obj\Debug\net9.0\DeepgramAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\source\repos\DeepgramAI\DeepgramAI\obj\Debug\net9.0\DeepgramAI.AssemblyInfoInputs.cache
+C:\Users\furka\source\repos\DeepgramAI\DeepgramAI\obj\Debug\net9.0\DeepgramAI.AssemblyInfo.cs
+C:\Users\furka\source\repos\DeepgramAI\DeepgramAI\obj\Debug\net9.0\DeepgramAI.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\DeepgramAI\DeepgramAI\obj\Debug\net9.0\DeepgramAI.dll
+C:\Users\furka\source\repos\DeepgramAI\DeepgramAI\obj\Debug\net9.0\refint\DeepgramAI.dll
+C:\Users\furka\source\repos\DeepgramAI\DeepgramAI\obj\Debug\net9.0\DeepgramAI.pdb
+C:\Users\furka\source\repos\DeepgramAI\DeepgramAI\obj\Debug\net9.0\DeepgramAI.genruntimeconfig.cache
+C:\Users\furka\source\repos\DeepgramAI\DeepgramAI\obj\Debug\net9.0\ref\DeepgramAI.dll
